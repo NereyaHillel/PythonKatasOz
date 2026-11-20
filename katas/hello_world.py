@@ -5,7 +5,7 @@ def hello_world():
     """
     Returns the string "hello world".
     """
-    return "hello_world"
+    return "hello world"
 
 
 if __name__ == '__main__':
